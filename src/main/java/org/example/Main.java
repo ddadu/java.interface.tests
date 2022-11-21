@@ -1,12 +1,10 @@
 package org.example;
 
-import ge.softgen.softlab.tutorials.Validator;
 import ge.softgen.softlab.tutorials.exceptions.ValidatorException;
 import ge.softgen.softlab.tutorials.validators.IDValidator;
 import ge.softgen.softlab.tutorials.validators.ISODateValidator;
 import ge.softgen.softlab.tutorials.validators.ValidatorService;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
