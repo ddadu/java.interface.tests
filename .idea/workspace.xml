@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e6e8672-85e4-4837-9375-946d5d61a8aa" name="Changes" comment="firs commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ge/softgen/softlab/tutorials/Validator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ge/softgen/softlab/tutorials/exceptions/ValidatorException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ge/softgen/softlab/tutorials/validators/IDValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ge/softgen/softlab/tutorials/validators/ISODateValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ge/softgen/softlab/tutorials/validators/ValidatorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ge/softgen/softlab/tutorials/validators/ISODateValidatorTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="0e6e8672-85e4-4837-9375-946d5d61a8aa" name="Changes" comment="firs commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,8 +88,23 @@
       <option name="presentableId" value="Default" />
       <updated>1668970197592</updated>
       <workItem from="1668970199957" duration="3544000" />
-      <workItem from="1669040770344" duration="12924000" />
+      <workItem from="1669040770344" duration="13229000" />
     </task>
+    <task id="LOCAL-00001" summary="firs commit">
+      <created>1669062796465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669062796465</updated>
+    </task>
+    <task id="LOCAL-00002" summary="firs commit">
+      <created>1669062960423</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669062960423</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
